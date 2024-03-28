@@ -1,6 +1,10 @@
 Resolving CORS errors for your Simple API Project with a Proxy Back-End
 
+****** Disclaimers ******
 For a clearer guide check out the google doc I shared with the class.
+Disclaimer, I am using the Zen Quotes API for this example.
+If you want to use their API go to https://zenquotes.io/ or https://docs.zenquotes.io/
+*************************
 
 If you are trying to fetch some data from a third party API into your webpage or project, you may be encountering a cors error.
 
@@ -23,7 +27,7 @@ I have created a solution for you to use option 2.
 
 Hosting the Server
 Clone the repo
-First clone this repository from github.com:
+First clone this repository from github.com: https://github.com/Martyn-Conkling/simple-back-end-proxy-server.git
 
 
 I have created a simple back end API that you can host locally on your computer, and communicate with from your front-end.
